@@ -20,25 +20,25 @@ Customer churn is a major challenge for subscription-based businesses. ChurnIQ u
 
 An overview of customer churn patterns in the dataset.
 
-![Customer Churn Analysis](assets/customer-churn.png)
+![Customer Churn Analysis](images/customer-churn.png)
 
 ### 2. Feature Importance
 
 The top 15 features identified by the tuned XGBoost model.
 
-![Top 15 Feature Importances](assets/top-15-feature-importances-tuned-XGBoost.png)
+![Top 15 Feature Importances](images/top-15-feature-importances-tuned-XGBoost.png)
 
 ### 3. Application Dashboard
 
 The ChurnIQ overview dashboard.
 
-![ChurnIQ Overview](assets/overview.png)
+![ChurnIQ Overview](images/overview.png)
 
 ### 4. Prediction Results
 
 An example of the model's customer churn prediction.
 
-![Churn Prediction Result](assets/prediction-result.png)
+![Churn Prediction Result](images/prediction-result.png)
 
 ## Machine Learning Workflow
 
