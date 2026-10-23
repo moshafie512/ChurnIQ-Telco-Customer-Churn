@@ -5,7 +5,7 @@ An interactive machine learning application that estimates customer churn probab
 ChurnIQ transforms customer subscription, service, and billing information into actionable predictions through an interactive dashboard. It also provides a customer prioritization workflow to help explore which customers may need retention outreach first.
 
 <p align="center">
-  <a href="YOUR_STREAMLIT_APP_URL">
+  <a href="[YOUR_STREAMLIT_APP_URL](https://churniq-telco-customer-churn.streamlit.app/)">
     <img src="https://img.shields.io/badge/Live%20Demo-Open%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo">
   </a>
   <img src="https://img.shields.io/badge/Python-Machine%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
