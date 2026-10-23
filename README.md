@@ -6,6 +6,13 @@
 
 Customer churn is a major challenge for subscription-based businesses. ChurnIQ uses machine learning to analyze customer data, predict churn risk, and support data-driven customer retention decisions.
 
+## Live Demo
+
+Try the live application here:
+
+**[Launch ChurnIQ Web App](https://churniq-telco-customer-churn.streamlit.app)**
+
+
 ## Key Features
 
 * **Exploratory Data Analysis:** Explore customer churn patterns and relationships within the dataset.
