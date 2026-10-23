@@ -57,19 +57,6 @@ An example of the model's customer churn prediction.
 * **Streamlit** — Interactive web application
 * **Plotly & Matplotlib** — Data visualization
 
-
-## Limitations
-
-* Predictions depend on the quality and characteristics of the dataset used to train the model.
-* Feature importance indicates which variables the model relies on; it does not necessarily imply causation.
-* Predictions should support business decisions rather than replace human judgment.
-
-## Future Improvements
-
-* Experiment with additional machine learning models.
-* Improve model performance through further tuning and feature engineering.
-* Expand retention strategies with more customer-specific recommendations.
-
 ## Author
 
 **Mohamed Elshafie**
