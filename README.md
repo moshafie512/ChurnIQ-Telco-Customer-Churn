@@ -57,18 +57,6 @@ An example of the model's customer churn prediction.
 * **Streamlit** — Interactive web application
 * **Plotly & Matplotlib** — Data visualization
 
-## Installation & Usage
-
-To run ChurnIQ locally:
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd ChurnIQ
-pip install -r requirements.txt
-streamlit run app.py
-```
-
-Make sure the trained model files are available in the expected project directory.
 
 ## Limitations
 
